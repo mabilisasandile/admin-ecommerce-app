@@ -1,4 +1,4 @@
-E-COMMERCE WEB APPLICATION
+ADMIN E-COMMERCE WEB APPLICATION
 
 Description:
 Developed a Full Stack E-commerce Website utilizing modern technologies including React JS, Tailwind CSS, MongoDB, Express JS, Node JS, and Stripe for seamless online transactions.
